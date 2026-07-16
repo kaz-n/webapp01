@@ -1,2 +1,4 @@
-pytest
+starlette
 fastapi
+httpx
+pytest
